@@ -20,7 +20,7 @@ Then follow steps below
 Run command to clone repository:
 
 ```
-$ git clone https://github.com/navi5599/Chat_App.git
+$ git clone https://github.com/samia-gits-it/Chat_App.git
 ```
 
 After cloning repo, you should install all dependencies,starting with Expo cli:
